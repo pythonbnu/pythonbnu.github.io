@@ -1,0 +1,1 @@
+Sitemap: https://blumenau.sc.python.org.br/sitemap.xml
